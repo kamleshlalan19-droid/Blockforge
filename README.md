@@ -1,12 +1,12 @@
-# ⛏️ KamCraft
+# ⛏️ Blockforge
 
 A browser-based voxel sandbox game inspired by classic block-building games.
 
-**KamCraft** is a JavaScript/Three.js project that lets you explore a procedurally generated world, break and place blocks, collect resources, craft items, and survive.
+**Blockforge** is a JavaScript/Three.js project that lets you explore a procedurally generated world, break and place blocks, collect resources, craft items, and survive.
 
 ## 🎮 Play
 
-**[Play KamCraft](YOUR-GITHUB-PAGES-LINK-HERE)**
+**[Play Blockforge](YOUR-GITHUB-PAGES-LINK-HERE)**
 
 
 ## ✨ Features
@@ -46,7 +46,7 @@ A browser-based voxel sandbox game inspired by classic block-building games.
 * JavaScript
 * Three.js
 
-KamCraft is designed to run as a static website, making it compatible with **GitHub Pages**.
+Blockforge is designed to run as a static website, making it compatible with **GitHub Pages**.
 
 ## 📁 Project Structure
 
@@ -55,7 +55,7 @@ KamCraft/
 └── index.html
 ```
 
-KamCraft is currently designed as a single-file project.
+Blockforge is currently designed as a single-file project.
 
 ## 🔨 Development
 
@@ -65,12 +65,12 @@ More features and improvements may be added over time.
 
 ## 📜 Credits
 
-Created by **Kamlesh**.
+Created by **Kamlesh and Nolan.**.
 
 Built with [Three.js](https://threejs.org/).
 
 ## ⚠️ Disclaimer
 
-KamCraft is an independent fan-inspired project and is not affiliated with or endorsed by Mojang or Microsoft.
+Blockforge is an independent fan-inspired project and is not affiliated with or endorsed by Mojang or Microsoft.
 
-All original code, designs, and assets used in KamCraft belong to their respective creators.
+All original code, designs, and assets used in Blockforge belong to their respective creators.
