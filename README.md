@@ -48,10 +48,6 @@ A browser-based voxel sandbox game inspired by classic block-building games.
 
 KamCraft is designed to run as a static website, making it compatible with **GitHub Pages**.
 
-## 🚀 Running Locally
-
-You can simply open `index.html` in a browser, or use a local development server for the best experience.
-
 ## 📁 Project Structure
 
 ```text
