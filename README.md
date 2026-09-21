@@ -1,4 +1,4 @@
-# ⛏️ Blockforge
+# ⛏️ Blockforge (Inside the game it is called Kamcraft!)
 
 A browser-based voxel sandbox game inspired by classic block-building games.
 
